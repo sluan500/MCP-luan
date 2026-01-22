@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.py[cod]
+*$py.class
+# Virtual environments
+.venv
+
+# MCP/Node
+node_modules/
+npm-debug.log*
+
+# IDEs
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini

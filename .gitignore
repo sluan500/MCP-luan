@@ -9,7 +9,7 @@ wheels/
 *$py.class
 # Virtual environments
 .venv
-
+.env
 # MCP/Node
 node_modules/
 npm-debug.log*

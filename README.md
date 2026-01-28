@@ -19,3 +19,8 @@ uv run fastmcp dev src/main.py
 1. O comando abrirá uma interface no navegador.
 2. Na aba **"Tools"**, você verá ferramentas como `teste_conexao` e `predict_job_cost`.
 3. Preencha os argumentos necessários e clique em **"Run Tool"** para validar a resposta JSON do servidor.
+
+### Run fastmcp
+```
+fastmcp run src\main.py:mcp --transport http --port 8000 
+```
